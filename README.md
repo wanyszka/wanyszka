@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a PhD student at Princeton and an aspiring entrepreneur/builder
+I'm a PhD student at Princeton.
 <!--
 **wanyszka/wanyszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
